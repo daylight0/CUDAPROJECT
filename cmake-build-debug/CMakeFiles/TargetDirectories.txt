@@ -1,0 +1,4 @@
+/home/wh/CLion/CUDAPROJECT/cmake-build-debug/CMakeFiles/hello_cuda.dir
+/home/wh/CLion/CUDAPROJECT/cmake-build-debug/CMakeFiles/CUDA01.dir
+/home/wh/CLion/CUDAPROJECT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wh/CLion/CUDAPROJECT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
